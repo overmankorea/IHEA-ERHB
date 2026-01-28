@@ -1,5 +1,3 @@
-![Banner](banner.jpg)
-
 # Economics of Risky Health Behaviors
 
 Welcome to the official website for **Economics of Risky Health Behaviors**. You can find information about the schedule, view past seminars, find calls for papers and sign up for our email list.
