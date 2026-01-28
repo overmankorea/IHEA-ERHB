@@ -1,0 +1,7 @@
+title: Economics of Risky Health Behaviors
+description: [Economics of Risky Health Behaviors webpage.]
+theme: jekyll-theme-cayman
+plugins:
+      - jekyll-seo-tag
+logo: banner.jpg
+encoding: UTF-8
