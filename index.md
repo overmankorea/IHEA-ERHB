@@ -10,7 +10,7 @@ Economics of Risky Health Behaviors is a Special Interest Group (SIG) of the Int
 
 The schedule is updated regularly as new seminars are added to the series. 
 
-Join our e-mail list for updates: [https://???/email.html](https://???.html).
+Join our e-mail list for updates: [https://overmankorea.github.io/IHEA-ERHB/schedule.html](https://overmankorea.github.io/IHEA-ERHB/schedule.html).
 
 ![Index](test.jpg)
 
