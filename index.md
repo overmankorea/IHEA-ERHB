@@ -12,7 +12,7 @@ The schedule is updated regularly as new seminars are added to the series.
 
 Join our e-mail list for updates: [https://???/email.html](https://???.html).
 
-![Index](TOPS_schedule_Winter2026_v2.jpg)
+![Index](test.jpg)
 
 <!--
 - The [AEA list of online seminars](https://www.aeaweb.org/resources/online-seminars)
