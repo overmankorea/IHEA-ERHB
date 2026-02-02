@@ -10,7 +10,7 @@ Here is the list of upcoming seminars.
   {% assign upcoming = site.data.past_seminars | where_exp: "item", "item.Video == nil or item.Video == ''" | reverse %}
 
   {% for speaker in upcoming %}
-    {% if speaker.Date and speaker.Presenter != nil and speaker.Presenter != "" %}
+    {% if speaker.Presenter != nil and speaker.Presenter != "" %}
     <tr>
       <td colspan="2" height="40" valign="top" class="session">
         <strong>Date: {{ speaker.Date }}</strong>
