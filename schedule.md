@@ -2,6 +2,8 @@
 
 The seminar is held on the **first Monday of each month at 15:30 (UTC)**.
 
+## Upcoming Seminars
+
 Here is the list of upcoming seminars.
 
 <table width="100%" cellspacing="5" cellpadding="5">
