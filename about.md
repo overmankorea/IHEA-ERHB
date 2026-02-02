@@ -9,7 +9,7 @@ The following convenors help guide SIG activities:
 * **[Tinna Laufey Ásgeirsdóttir](https://english.hi.is/staff/ta)**, University of Iceland, Iceland
 * **[Ana Inés Balsa](http://www2.um.edu.uy/abalsa/)**, Universidad de Montevideo, Uruguay
 * **[John Cawley](https://www.human.cornell.edu/people/jhc38)**, Cornell University, USA
-* **[Hans van Kippersluis](https://www.eur.nl/en/people/hans-van-kippersluis)**, Erasmus University, Rotterdam, Netherlands
+* **[Hans van Kippersluis](https://www.eur.nl/en/people/hans-van-kippersluis)**, Erasmus University Rotterdam, Netherlands
 * **[Davide Dragone](https://www.unibo.it/sitoweb/davide.dragone/en)**, University of Bologna, Italy
 * **[Erdal Tekin](https://www.american.edu/spa/faculty/tekin.cfm)**, American University, USA
 
