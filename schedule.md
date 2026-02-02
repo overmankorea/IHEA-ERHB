@@ -7,7 +7,7 @@ The seminar is held on the **first Monday of each month at 15:30 (UTC)**.
 Here is the list of upcoming seminars.
 
 <table width="100%" cellspacing="5" cellpadding="5">
-  {% assign upcoming = site.data.past_seminars | where_exp: "item", "item.Video == nil or item.Video == ''" | reverse %}
+  {% assign upcoming = site.data.past_seminars | where_exp: "item", "item.Video == blank" | reverse %}
 
   {% for speaker in upcoming %}
     {% if speaker.Presenter != nil and speaker.Presenter != "" %}
