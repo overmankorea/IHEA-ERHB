@@ -6,7 +6,6 @@ Here is the list of upcoming seminars.
 
 <table width="100%" cellspacing="5" cellpadding="5">
 {% for speaker in site.data.past_seminars %}
-  {% comment %} 비디오 링크가 비어있거나 존재하지 않을 때만 출력 {% endcomment %}
   {% if speaker.Video == "" or speaker.Video == nil %}
   <tr>
     <td colspan="2" height="40" valign="top" class="session">
@@ -23,12 +22,6 @@ Here is the list of upcoming seminars.
   <tr>
     <td colspan="2" valign="top" class="paper">
       <strong>Title:</strong> "{{ speaker.Title }}"
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" height="40" valign="top" class="registration">
-      <strong>Links:</strong> <em>Recording not available</em>
     </td>
   </tr>
 
