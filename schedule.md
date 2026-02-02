@@ -7,9 +7,10 @@ The seminar is held on the **first Monday of each month at 15:30 (UTC)**.
 Here is the list of upcoming seminars.
 
 <table width="100%" cellspacing="5" cellpadding="5">
-  {% assign sorted_seminars = site.data.past_seminars | sort: "Date" %}
-  {% for speaker in sorted_seminars %}
-    {% if speaker.Video == nil or speaker.Video == "" %}
+  {% assign upcoming = site.data.past_seminars | where_exp: "item", "item.Video == nil or item.Video == ''" | reverse %}
+
+  {% for speaker in upcoming %}
+    {% if speaker.Date and speaker.Presenter != nil and speaker.Presenter != "" %}
     <tr>
       <td colspan="2" height="40" valign="top" class="session">
         <strong>Date: {{ speaker.Date }}</strong>
