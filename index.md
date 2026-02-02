@@ -8,7 +8,7 @@ Welcome to the official website for **Economics of Risky Health Behaviors**. You
 
 ## Schedule
 
-The schedule is updated regularly as new seminars are added to the series. 
+The seminar is held on the first Monday of each month at 15:30 (UTC).
 
 Join our e-mail list for updates: [https://overmankorea.github.io/IHEA-ERHB/schedule.html](https://overmankorea.github.io/IHEA-ERHB/schedule.html).
 
