@@ -1,6 +1,6 @@
 ## Past Seminars
 
-You can find a list of past seminars with a link to the video recording if available.
+You can find a list of past and future seminars with a link to the video recording if available.
 
 <table width="100%" cellspacing="5" cellpadding="5">
 {% for speaker in site.data.past_seminars %}
