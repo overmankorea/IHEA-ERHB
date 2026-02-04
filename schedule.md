@@ -10,8 +10,8 @@ Here is the list of upcoming seminars.
   {% assign sorted_seminars = site.data.past_seminars | reverse %}
 
   {% for speaker in sorted_seminars %}
-    {% comment %} 날짜 데이터가 있는 진짜 행인 경우에만 표를 만듭니다 {% endcomment %}
-    {% if speaker.Date != nil and speaker.Date != "" %}
+    {% assign date_content = speaker.Date | strip %}
+    {% if date_content != "" and date_content != nil %}
       {% if speaker.Video == nil or speaker.Video == "" %}
       <tr>
         <td colspan="2" height="40" valign="top" class="session">
