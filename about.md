@@ -10,9 +10,9 @@ The following researchers organize the seminar series:
 * **[Hans van Kippersluis](https://www.eur.nl/en/people/hans-van-kippersluis)**, Erasmus University Rotterdam, Netherlands
 * **[Davide Dragone](https://www.unibo.it/sitoweb/davide.dragone/en)**, University of Bologna, Italy
 
-## Convenors
+## Past Convenors
 
-The following convenors help guide SIG activities:
+The following convenors helped guide SIG activities:
 
 * **[Ana Inés Balsa](http://www2.um.edu.uy/abalsa/)**, Universidad de Montevideo, Uruguay
 * **[John Cawley](https://www.human.cornell.edu/people/jhc38)**, Cornell University, USA
