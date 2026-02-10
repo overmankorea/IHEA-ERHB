@@ -12,7 +12,7 @@ The seminar is held on the first Monday of each month at 15:30 (UTC).
 
 Join our e-mail list for updates: [https://overmankorea.github.io/IHEA-ERHB/schedule.html](https://overmankorea.github.io/IHEA-ERHB/schedule.html).
 
-![Index](test.jpg)
+![Index](Banner.png)
 
 <!--
 - The [AEA list of online seminars](https://www.aeaweb.org/resources/online-seminars)
