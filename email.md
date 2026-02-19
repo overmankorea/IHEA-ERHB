@@ -1,4 +1,4 @@
-﻿## Economics of Risky Health Behaviors Mailing List Sign-Up
+## Mailing List Sign-Up
 
 Please provide your contact information to receive email updates about Economics of Risky Health Behaviors.
 
