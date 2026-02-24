@@ -24,4 +24,4 @@ Join our e-mail list for updates: [https://overmankorea.github.io/IHEA-ERHB/sche
 
 ## Support or Contact
 
-Contact us by emailing ???(at)gmail(dot)com.
+Contact us by emailing verb@ese.eur.nl
