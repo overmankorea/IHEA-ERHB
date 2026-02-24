@@ -36,4 +36,4 @@ Here is the list of upcoming seminars.
   {% endfor %}
 </table>
 
-Join our e-mail list for updates: [https://overmankorea.github.io/IHEA-ERHB/email.html](https://overmankorea.github.io/IHEA-ERHB/email.html).
+Join our e-mail list for updates: [https://wonwoowilliamkim.github.io/IHEA-ERHB/email.html](https://wonwoowilliamkim.github.io/IHEA-ERHB/email.html).
